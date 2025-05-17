@@ -1,0 +1,22 @@
+[package]
+name = "xibao"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["hongjr03"]
+description = "A Chinese good news meme generator."
+repository = "https://github.com/hongjr03/good-news-generator"
+keywords = [
+    "meme",
+    "fun",
+    "news",
+]
+categories = [
+    "visualization",
+    "fun",
+]
+disciplines = [
+    "design",
+    "painting",
+]
+
+[tool]
